@@ -36,3 +36,6 @@ ipch
 .vs
 *.VC.db
 
+# Builds
+lib/
+objects/
